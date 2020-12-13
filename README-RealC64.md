@@ -101,6 +101,8 @@ e.g. using Striketerm to issue modem commands.
   * `at$sb=1200`
 3. If you are lazy, you can set the NeoHabitat Q-Link server to a speed dial slot, e.g. 0:
   * `at&z0=neohabitat.demo.spi.ne:1986`
+  and dial with
+  * 'atds0'
 4. Don't forget to save the defaults
   * `at&w`
 
