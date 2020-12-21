@@ -47,7 +47,7 @@ The archive [`Neohabitat-RealC64.zip`](https://github.com/frandallfarmer/neohabi
 * Use the D64 images (you could also use them with Vice on a PC)
 * All you need is `Habitat-Boot_v1.1-modemenabled.d64` and `Habitat-B.d64`.
 * Run them on your 1541-U directly
-* Make sure that you only have one drive connected when you run the game. NeoHabitat won't start if you have more than one drive connected. If you have a C128 or SX64 with internal drive you have either to switch the drive or the drive emulation of the 1541-U/II+ off.
+* Make sure that you only have one drive connected when you run the game. NeoHabitat won't start if you have more than one drive connected. If you have a C128 or SX64 with internal drive you have either to switch the drive or the drive emulation of the 1541-U/II+ off. On a C128D you can use a tool called [STFU](https://csdb.dk/release/?id=160842) to swith the internal drive off completely.
 
 #### Using any other method
 
